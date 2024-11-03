@@ -66,14 +66,6 @@ To ensure your skills align with industry demands:
 
 Example : [State of JS](https://stateofjs.com) and other surveys, will give you an idea about where to focus in near future.
 
-## Networking and Building Your Online Presence
-
-Networking is a powerful tool in the job search process:
-
-- **Leverage LinkedIn**: Regularly update LinkedIn with posts about your projects, industry insights, and learning progress. This visibility helps connect with recruiters and potential mentors.
-- **Engage in the Community**: Join tech communities, participate in discussions, and attend local or virtual meetups. Sites like [Dev.to](https://dev.to/) and [Hashnode](https://hashnode.com/) are great places to start.
-- **Share Industry News and Insights**: Show your awareness of current trends, such as new React or Node.js versions. This demonstrates that you stay up-to-date with the industry.
-
 ## Practicing Coding Skills
 
 Problem-solving is a core aspect of technical interviews. Build your skills through coding platforms:
@@ -82,14 +74,29 @@ Problem-solving is a core aspect of technical interviews. Build your skills thro
 - **Focus on Fundamentals**: Ensure a strong understanding of algorithms, data structures, and language basics.
 - **Share Your Progress**: As you complete challenges, update your GitHub or LinkedIn to reflect your progress. This shows employers your commitment to improvement.
 
+## Networking and Building Your Online Presence
+
+Networking is a powerful tool in the job search process:
+
+- **Leverage LinkedIn**: Regularly update LinkedIn with posts about your projects, industry insights, and learning progress. This visibility helps connect with recruiters and potential mentors.
+- **Engage in the Community**: Join tech communities, participate in discussions, and attend local or virtual meetups. Sites like [Dev.to](https://dev.to/) and [Hashnode](https://hashnode.com/) are great places to start.
+- **Share Industry News and Insights**: Show your awareness of current trends, such as new React or Node.js versions. This demonstrates that you stay up-to-date with the industry.
+
+### Engaging with the Tech Community
+
+- **Follow Industry Leaders**: Stay informed by following key influencers and core team members on Twitter, Reddit. Their insights can provide you with valuable knowledge about emerging trends and market demands.
+- **Engage with Content**: Interact with posts from thought leaders by liking, retweeting, and commenting. This not only helps you stay updated but also shows your interest in the tech landscape.
+- **Share Your Insights**: Don’t hesitate to share your thoughts on industry topics or your own projects. Regularly tweeting your experiences can showcase your expertise and attract attention from potential employers.
+- **Network Actively**: Participate in conversations and discussions within the tech community. Building relationships through engagement can lead to valuable connections and opportunities in your career.
+
 ## Interview Preparation
 
 Interviews can be daunting, but preparation makes all the difference:
 
 - **Technical Interview Prep**: Practice coding problems and review common algorithms. Mock interviews can be helpful to simulate real interview conditions.
 - **Behavioral Questions**: Be ready to discuss your projects, teamwork experiences, and how you handle challenges. The STAR (Situation, Task, Action, Result) method is a useful framework for structuring your responses.
-- **Follow Up**: After interviews, send a thank-you note to show appreciation and reiterate your interest.
-Often the most stressful part of technical interviews, live coding can be daunting. Practice with your teammates to build confidence and improve your ability to articulate your thought process while solving problems.
+- **Follow Up**: After your interviews, take a moment to send a brief thank-you note expressing your appreciation for the opportunity and reiterating your interest. Remember that companies also have their processes to follow, work days, so wait a few days before reaching out. Keep your message light and genuine, reflecting positively on the interview experience without coming across as overly pushy.
+- **Live coding**: Often the most stressful part of technical interviews, live coding can be daunting. Practice with your teammates to build confidence and improve your ability to articulate your thought process while solving problems.
 
 ## Contributing to This Guide
 
